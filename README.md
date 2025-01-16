@@ -4,5 +4,6 @@ This repository will include model with high accuracy (98%) in the training sess
 
 To use this repository, you need to install python and the module first.
 Then, open your Visual Studio Code, and open folder to this folder path.
-Run the "app.py" file using command "flask main"
+Make sure you have set virtual environment after choosing the path.
+Run the VSCode terminal of "app.py" file using command "flask run".
 Last, go to the localhost that provided.
